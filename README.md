@@ -1,2 +1,2 @@
 # vaquinhabuger-mobile
-Vaquinha Burger (GetX)
+Vaquinha Burger (Provider + Bloc)
